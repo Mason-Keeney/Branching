@@ -19,5 +19,5 @@
 ### Branch Commands
 
 * `git branch` - list local branches
-* `git checkout branchName` - checkout local branch
-`branchName`
+* `git branch branchName` - create local branch `branchName`
+* `git checkout branchName` - checkout local branch `branchName`
