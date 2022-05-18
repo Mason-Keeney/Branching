@@ -2,6 +2,9 @@
 
 Overview and cheat sheet of git commands. Includes several categories of commands.
 
+STUFF ADDED IN newBranch
+OTHER THING newBranch.
+
 ### Basic Commands
 
 * `git init` - initialize to a new local repo
